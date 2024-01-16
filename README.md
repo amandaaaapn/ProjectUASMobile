@@ -36,17 +36,17 @@ a. Source Code Splash Launcher
 
 Didalamnya berisi code java, untuk menjalankan fungsi splash launcher. Lebih jelasnya splash launcher ini adalah menampilkan gambar/logo/icon ketika kita pertama kali membuka aplikasi, atau sebelum menuju kehalaman utama.
 
-- backgroundlauncher.xml
+- backgroundlauncher.xml [Lihat File](tugasuasmobile/app/src/main/res/drawable/backgroundlauncher.xml)<br>
 
 Ini adalah logo yang saya gunakan, saya menggunakan logo dari android studio nya
 
 b. Source Code Utama
 
-- MainActivity.java
+- MainActivity.java [Lihat File](tugasuasmobile/app/src/main/java/com/example/tugassepuluh/MainActivity.java)<br>
 
 Di MainActivity ini berisi program java yang memiliki fungsi penghubung dari semua activity yang disebut intent dan fungsi tombol open alarm dan open map. Saya beri nama file ini Main karena disinilah fungsi paling awal dari halaman awal.
 
-- activity_main.xml
+- activity_main.xml [Lihat File](tugasuasmobile/app/src/main/res/layout/activity_main.xml)<br>
 
 Ini adalah layout dari halaman awal aplikasi ini. Layout ini terhubung dengan MainActivity.java tadi. Dilayout ini menampilkan semua tombol tombol dari berbagai activity dan program yang sudah dijelaskan diatas. Beginilah tampilan dari layoutnya :
 
@@ -54,25 +54,25 @@ Ini adalah layout dari halaman awal aplikasi ini. Layout ini terhubung dengan Ma
 
 > Iconnya disini sudah Saya usahakan agar sesuai dengan identitas dari activitynya.
 
-- AndroidManifest.xml
+- AndroidManifest.xml [Lihat File](tugasuaasmobile/app/src/main/AndroidManifest.xml)<br>
 
 Di AndroidManifest.xml ini berfungsi untuk mengaktifkan permission yang dibutuhkan dibeberapa activity. Selain itu, AndroidManifest.xml ini juga harus dilakukan pengeditan jika kita menambah sebuah tombol atau activity baru yang berhubungan dengan intent, agar activity tersebut dapat dibuka nantinya.
 
-- string.xml
+- string.xml [Lihat File](tugasuasmobile/app/src/main/res/values/strings.xml)<br>
 
 String.xml ini adalah sebuah values, values ini berisi teks-teks dari tombol - isi - atau apapun itu yang berhubungan dengan teks.
 
-- color.xml
+- color.xml [Lihat File](tugasuasmobile/app/src/main/res/values/colors.xml)<br>
 
 Sama seperti string, colors.xml ini juga merupakan sebuah values, tapi bedanya values ini berisi code-code warna yang sudah dibuat menjadi ID atau identitas yang bertujuan untuk memudahkan dalam pemanggilan warnanya di dalam coding.
 
 c. Source Code Activity Hello World
 
-- HelloActivity.java
+- HelloActivity.java [Lihat File](tugasuasmobile/app/src/main/java/com/example/tugassepuluh/HelloActivity.java)<br>
 
 Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat default dari awal dibuat.
 
-- activity_hello.xml
+- activity_hello.xml [Lihat File](tugasuasmobile/app/src/main/res/layout/activity_hello.xml)<br>
 
 Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya. Saya hanya menambahkan textview untuk menampilkan android:text "hello_world" nya (text sudah ada di string.xml), selain itu saya juga mengubah warna text dan menambahkan background agar terlihat lebih menarik.
 
@@ -82,11 +82,11 @@ Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya
 
 d. Source Code Activity Count
 
-- CountActivity.java
+- CountActivity.java [Lihat File](tugasuasmobile/app/src/main/java/com/example/tugassepuluh/CountActivity.java)<br>
 
 Tentunya disini berisi code java untuk menjalankan fungsi perhitungan dari rumus fibonnaci. Bilangan fibonnaci adalah bilangan yang rumusnya adalah menambah sebuah bilangan dengan bilangan sebelumnya. Contohnya 1, 1, 2, 3, 5, 8... 
 
-- activity_count.xml
+- activity_count.xml [Lihat File](tugasuasmobile/app/src/main/res/layout/activity_count.xml)<br>
 
 Ini adalah layout dari activity count, ada beberapa tombol disini seperti set limit, count, dan reset. Angka yang ditampilkan juga sudah menggunakan code warna, agar setiap angka yang ditampilkan memiliki warna yang berbeda dengan angka sebelumnya.
 
@@ -96,11 +96,11 @@ https://github.com/amandaaaapn/ProjectUASMobile/assets/115678845/9f51e69f-c208-4
 
 e. Source Code Activity Scroll Movie
 
-- SianidaActivity.java
+- SianidaActivity.java [Lihat File](tugasuasmobile/app/src/main/java/com/example/tugassepuluh/SianidaActivity.java)<br>
 
 Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat default sedari awal dibuat.
 
-- activity_sianida.xml
+- activity_sianida.xml [Lihat File](tugasuasmobile/app/src/main/res/layout/activity_sianida.xml)<br>
 
 Layout inilah yang mempengaruhi dan memberikan alasan kenapa di javanya tidak ada perubahan. Disini, digunakan sebuah scrollview yang bisa menjadikan text yang begitu panjang dan tidak muat dalam satu layar penuh, maka dengan ini kita bisa membaca semua isi kontennya hanya dengan cara scroll layar.
 
@@ -111,10 +111,14 @@ https://github.com/amandaaaapn/ProjectUASMobile/assets/115678845/52b4da88-9950-4
 f. Source Code Activity TwoActivity
 
 - TwoActivity.java & TwoAct2Activity.java
+  - TwoActActivity.java [Lihat File](tugasuasmobile/app/src/main/java/com/example/tugassepuluh/TwoactActivity.java) & TwoAct2Activity.java [Lihat File](tugasuasmobile/app/src/main/java/com/example/tugassepuluh/Twoact2Activity.java)<br>
+
 
 Kedua java berisi fungsi untuk menjalankan program perpesanan. Kedua java tersebut memiliki peran masing-masing, yang pertama untuk pengirim dan yang kedua untuk fungsi ketika pesan berhasil terkirim.
 
 - activity_twoact.xml & activity_twoact2.xml
+
+  - activity_twoact [Lihat File](tugasuasmobile/app/src/main/res/layout/activity_twoact.xml) & activity_twoact2 [Lihat File](tugasuasmobile/app/src/main/res/layout/activity_twoact2.xml)<br>
 
 Kedua layout ini merupakan tampilannya, yang pertama berfungsi menampilkan saat mengirim pesan dan yang kedua menampilkan saat pesan berhasil terkirim.
 
@@ -173,7 +177,7 @@ i. Source Code Activity Fragment
 
 Berbeda dari activity sebelumnya, di activity ini memerlukan banyak java dan layout, karena activity ini terdiri dari beberapa halaman. Perintah tugas dari activity ini adalah, membuat sebuah program atau aplikasi menampilkan daftar film sesuai dengan genre nya. Dan genre yang diperintahkan untuk dibuat ada tiga buah, yakni Action, Comedy, dan Romance.
 
-- FragmentActivity.java
+- FragmentActivity.java [Lihat File](tugasuasmobile/app/src/main/java/com/example/tugassepuluh/FragmentActivity.java)<br>
 
 Java yang ini berfungsi sebagai fungsi dari halaman utamanya. Didalamnya terdapat code untuk switch atau berpindah antar fragment dari action/comedy/romance. Nah agar code fragment tersebut dapat berjalan, perlu ditambahkan sebuah depedencies baru di build.gradlenya, berikut dependenciesnya :
 
@@ -181,11 +185,11 @@ Java yang ini berfungsi sebagai fungsi dari halaman utamanya. Didalamnya terdapa
 
 > Perlu diingat jika menambahkan dependencies baru, perlu dilakukan sync terlebih dahulu.
 
-- activity_fragment.xml
+- activity_fragment.xml [Lihat File](tugasuasmobile/app/src/main/res/layout/activity_fragment.xml)<br>
 
 Inilah layout yang terhubung dengan FragmentActivity.java, layout ini adalah tampilan basic atau tampilan utama yang masih kosong, didalamnya terdapat 3 tombol untuk berpindah antar fragment nya.
 
-- FirstFragment.java, SecondFragment.java, ThirdFragment.java
+- FirstFragment.java [Lihat File](tugasuasmobile/app/src/main/res/layout/fragment_first.xml) , SecondFragment.java [Lihat File](tugasuasmobile/app/src/main/res/layout/fragment_second.xml) , ThirdFragment.java [Lihat File](tugasuasmobile/app/src/main/res/layout/fragment_third.xml) <br>
 
 Nah ketiga java ini didalamnya terdapat fungsi untuk menampilkan list film yang ada, dan fungsi memutar trailer video ketika poster atau gambar filmnya ditekan. Video tersebut berasal dari link youtube yang saya tambahkan sesuai dengan film apa yang ada di masing masing fragment nya. Untuk menggunakan fungsi ini perlu ditambahkan depedencies di build.gradle nya. Saya menggunakan library yang bernama youtube player dari pierfrancescosoffritti, berikut dependenciesnya :
 
@@ -193,7 +197,7 @@ Nah ketiga java ini didalamnya terdapat fungsi untuk menampilkan list film yang 
 
 > Perlu diingat jika menambahkan dependencies baru, perlu dilakukan sync terlebih dahulu.
 
-- fragment_first.xml, fragment_second.xml, fragment_third.xml
+- fragment_first.xml [Lihat File](tugasuasmobile/app/src/main/res/layout/fragment_first.xml) , fragment_second.xml  [Lihat File](tugasuasmobile/app/src/main/res/layout/fragment_second.xml) , fragment_third.xml [Lihat File](tugasuasmobile/app/src/main/res/layout/fragment_third.xml) <br>
 
 Ketiga xml ini merupakan layout atau tampilan dari masing-masing fragment, didalamnya menampilkan daftar film sesuai dengan genrenya. Layout ini terhubung dengan ketiga java diatas.
 

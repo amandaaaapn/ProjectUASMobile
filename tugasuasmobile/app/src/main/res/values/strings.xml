@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Final APP</string>
+
+    <string name="map">Show Map</string>
+
+    <string name="project_hello">Project Hello World</string>
+    <string name="project_count">Project Count</string>
+    <string name="project_sianida">Project Sianida</string>
+    <string name="project_twoactivity">Project TwoActivity</string>
+    <string name="project_set_alarm">Project Set Alarm</string>
+
+    <string name="Tab_1">Action</string>
+    <string name="Tab_2">Horror</string>
+    <string name="Tab_3">Comedy</string>
+
+
+    <string name="hello_text">>_Hello World!</string>
+
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_finish">Reset</string>
+    <string name="enter_fibonacci_limit">Masukan Limit Angka</string>
+
+    <string name="button_label_toast">Desk</string>
+    <string name="toast_message">Project Count</string>
+
+    <string name="button_main">Send</string>
+    <string name="text_header_reply">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Reply Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+
+    <string name="article_teks">Kasus kopi sianida berawal dari pertemuan Jessica Wongso, Mirna, dan Hanie Boon Juwita di Kafe Olivier Grand Indonesia (GI) pada 6 Januari 2016. Jessica datang lebih dahulu dan memesan tempat dilayani resepsionis Cindy yang menawarkan meja nomor 54.
+
+Lalu, ia pergi dan kembali lagi membawa tas kertas, kemudian memesan es kopi Vietnam serta dua koktail. Setelah ia membayar, penyaji mengantarkan minuman ke meja 54. \n\n
+
+
+Beberapa menit kemudian, Mirna dan Hani datang secara bersamaan. Mirna meminum es kopi Vietnam dan mengatakan rasanya tidak enak sambil mengibaskan tangan di depan mulutnya.\n\n
+
+
+Tidak lama kemudian, tubuh Mirna kejang, tidak sadarkan diri, dan mengeluarkan buih dari mulut. Mirna langsung dibawa ke klinik di GI. Kemudian, suami Mirna, Arief Soemarko datang membawanya ke Rumah Sakit (RS) Abdi Waluyo ditemani Jessica dan Hanie.
+
+Namun, nyawa Mirna tidak terselamatkan. Ayah Mirna, Edi Dharmawan Salihin langsung melaporkan kematian anaknya ke Polsek Metro Tanah Abang karena dianggap tidak wajar.\n
+
+
+Tiga hari setelah kematian, Direktur Reserse Kriminal Umum Polda Metro Jaya, Krishna Murti meminta izin kepada ayahnya agar diautopsi. Namun, jenazah hanya diizinkan untuk diambil sampel dari bagian tubuhnya dan menemukan zat racun. Lalu, pada 10 Januari 2016, jenazah Mirna dimakamkan di Gunung Gadung, Bogor.\n\n
+
+
+<b>Pra-rekonstruksi dan penetapan tersangka</b>\n
+
+Mengacu Antara, satu hari setelah Mirna dikubur, polisi melangsungkan pra-rekonstruksi di Kafe Olivier yang menghadirkan Jessica, Hanie, dan pegawai Olivier. Setelah itu, Puslabfor Mabes Polri mengumumkan, ada sianida dalam kopi dan lambung Mirna.
+
+Penyidik Polisi kemudian memanggil Jessica dan keluarga Mirna, yaitu Dharmawan, Sendy Salihin (saudari kembarnya), serta Arief. Penyidik melakukan gelar perkara, menetapkan Jessica sebagai tersangka pembunuhan, dan menangkapnya di sebuah hotel Jakarta Utara.\n\n
+
+
+<b>Rekonstruksi dan Praperadilan</b>\n
+
+Pada Februari 2016, polisi menggelar rekonstruksi tewasnya Mirna di Kafe Olivier. Jessica menolaknya karena dinilai itu sebagai "versi polisi". Setelah itu, ia menjalani tes kejiwaan di RS Cipto Mangunkusumo untuk mengetahui pribadi dan motif.
+
+Kemudian, penasihat hukum Jessica mengajukan pra-peradilan ke Pengadilan Negeri (PN) Jakarta Pusat (Jakpus) karena penetapan tersangka dianggap tidak sah. Namun, upaya tersebut pupus sehingga Jessica ditahan sampai akhir Mei 2016.
+
+Persidangan perdana dan saksi kunci
+
+Pada 15 Juni 2016, sidang perdana Jessica digelar dengan agenda pembacaan eksepsi oleh pengacara Jessica, Sordame Purba. Ia menyebut dakwaan jaksa terlalu dangkal untuk tuduhan pembunuhan berencana. Lalu, pada 28 Juni 2016, Hakim PN Jakpus menolak seluruh eksepsi karena dakwaan jaksa telah lengkap dan jelas.
+
+Pada 12 Juli 2016, keluarga Mirna (Dharmawan, Sendy, dan Arief) memberikan keterangan yang mengarah kepada kecurigaan Jessica. Esoknya, saksi kunci, Hanie dihadirkan. Ia sempat mencicipi es kopi Vietnam dan merasakan rasa panas di lidah. Ia juga menceritakan situasi kedatangannya di kafe sampai di RS Abdi Waluyo.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">Action</string>
+    <string name="second">Comedy</string>
+    <string name="third">Romance</string>
+
+
+    <string name="movies">MOVIES</string>
+
+    <string name="action1">The Ganster, The Cop, The Devil</string>
+    <string name="action2">Ballerina</string>
+    <string name="action3">13 Bom Di Jakarta</string>
+    <string name="action4">The Big 4 </string>
+    <string name="sinopsisa1">Bos geng Zeus paling ditakuti Jang Dong-su (Don LEE) diserang hingga luka parah. Meskipun ia melawan balik, ia hampir saja tidak selamat dan reputasinya menjadi rusak. Satu-satunya cara untuk mengembalikan itu semua adalah menemukan penyerangnya dan balas dendam. Dia memutuskan untuk bekerja sama dengan Det. Jung Tae-seok (KIM Moo-yeol), yang percaya bahwa penyerang Jang tidak lain adalah pembunuh berantai. Atasan Det. Jung meremehkannya karena tidak ada bukti untuk memulai investigasi. Sang pembunuh selalu berhasil tidak meninggalkan jejak apapun. Akhirnya Det. Jung terpaksa menggunakan Jang Dong-su untuk melacak sang pembunuh berantai. Kedua pria itu mengumpulkan kekuatan mereka untuk menemukan pembunuh berantai yang hanya dikenal sebagai "K".</string>
+    <string name="sinopsisa2">Ballerina, adalah film cerita seru Korea Selatan yang disutradarai oleh Lee Chung-hyun, dibintangi oleh Jeon Jong-seo, Kim Ji-hoon dan Park Yu-rim. Film tersebut berkisah tentang balas dendam seorang mantan pengawal untuk membalas dendam temannya yang meninggal secara tidak adil.</string>
+    <string name="sinopsisa3">Jakarta, kota metropolitan dengan segala hingar bingarnya, seketika menjadi kelam. Sekumpulan teroris melancarkan serangannya dengan ancaman 13 bom yang disebar di seantero Jakarta. Penelusuran Badan Intelijen dan agen rahasia atas teror tersebut mengarah pada Oscar (Chicco Kurniawan) dan William (Ardhito Pramono) yang dianggap terlibat.
+Misi tim agen rahasia pun menjadi rumit ketika mereka mencurigai adanya penyusup dalam tim. Di sisi lain, pemimpin kelompok teroris, Arok (Rio Dewanto) tak henti menebar teror dengan meledakkan bom setiap 8 jam. Satu-satunya cara menghentikan serangan teror tersebut adalah menyerahkan imbalan bernilai miliaran rupiah dalam bentuk bitcoin kepada Arok atau keselamatan seluruh warga Jakarta terancam. </string>
+    <string name="sinopsisa4">Empat pensiunan pembunuh bayaran kembali beraksi saat mereka bertemu dengan polisi yang bersih yang bertekad untuk melacak seorang pembunuh yang sulit ditangkap.</string>
+    <string name="ratinga1">8.0</string>
+    <string name="ratinga2">8.4</string>
+    <string name="ratinga3">9.2</string>
+    <string name="ratinga4">7.0</string>
+
+    <string name="comedy1">Extreme Job</string>
+    <string name="comedy2">Exit</string>
+    <string name="comedy3">Secret Zoo</string>
+    <string name="comedy4">Cek Toko Sebelah</string>
+    <string name="sinopsisc1">Sebuah tim detektif narkotika menyamar di restoran ayam goreng untuk mengintai geng kejahatan terorganisir. Tapi hal-hal berubah tak terduga ketika resep ayam para detektif tiba-tiba mengubah restoran kumuh menjadi restoran terpopuler di kota.</string>
+    <string name="sinopsisc2">“EXIT” bercerita tentang Yong-nam (CHO Jung-seok) salah satu pemanjat tebing terbaik di perguruan tingginya namun tidak memiliki banyak keberuntungan di tempat lain setelah lulus. Setelah gagal mendapatkan pekerjaan selama bertahun-tahun dan harus bergantung pada orang tuanya hanya untuk bertahan hidup.</string>
+    <string name="sinopsisc3">Sebagai pegawai sementara di sebuah firma hukum, Tae-soo berharap suatu hari akan mendapatkan posisi sebagai pengacara tetap di firma tersebut. Dia bekerja keras tiap harinya hingga akhirnya dia mendapatkan sebuah kesempatan emas. Dia diberikan tugas khusus untuk menghidupkan kembali kebun binatang yang sudah bangkrut.</string>
+    <string name="sinopsisc4">Cek Toko Sebelah adalah film drama komedi Indonesia tahun 2016 yang ditulis dan disutradarai oleh Ernest Prakasa. Ide cerita film ini dibuat berdasarkan pada realitas etnis Tionghoa saat anak beranjak dewasa, kuliah yang tinggi, mirisnya ujung-ujungnya bekerja di toko orang tuanya sendiri.</string>
+    <string name="ratingc1">8.0</string>
+    <string name="ratingc2">7.9</string>
+    <string name="ratingc3">8.4</string>
+    <string name="ratingc4">7.0</string>
+
+    <string name="romance1">Ditto</string>
+    <string name="romance2">Sweet and Sour</string>
+    <string name="romance3">Start-Up</string>
+    <string name="romance4">School 2017</string>
+    <string name="sinopsisr1">Berlatar tahun 1999 dan 2022. Kim Young (Yeo Jin-goo), mahasiswa Teknik Mesin angkatan 1995 dan Kim Mu-nee (Cho Yi-hyun), mahasiswi Sosiologi angkatan 2021 di universitas yang sama, terhubung melalui radio ham dan berkomunikasi dengan lintas waktu lebih dari 20 tahun. Melalui komunikasi itu, mereka yang awalnya saling membutuhkan satu sama lain, jadi mengetahui sebuah fakta yang membuat mereka hampir tidak percaya.</string>
+    <string name="sinopsisr2">Sweet and Sour adalah film romansa Korea Selatan yang disutradarai oleh Lee Gye-byeok untuk KT Hitel dan dibintangi oleh Jang Ki-yong, Chae Soo-bin dan Krystal Jung. Film ini bercerita tentang cinta pada pandangan pertama pasangan yang berpisah karena penugasan kerja.</string>
+    <string name="sinopsisr3">Para wiraswasta muda yang ingin mewujudkan ide bisnis virtual mereka bersaing meraih kesuksesan dan cinta di kerasnya dunia industri teknologi tinggi Korea.</string>
+    <string name="sinopsisr4"> cerita para siswa di sebuah SMA yang berjuang melawan tekanan akademis dan sosial. Drama ini fokus pada kehidupan sehari-hari siswa dan perjuangan mereka dalam mencari identitas dan tujuan hidup.</string>
+    <string name="ratingr1">7.9</string>
+    <string name="ratingr2">8.0</string>
+    <string name="ratingr3">8.9</string>
+    <string name="ratingr4">8.8</string>
+
+</resources>

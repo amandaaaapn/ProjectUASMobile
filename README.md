@@ -32,7 +32,7 @@ Disini saya tidak akan menampilkan source codenya disini, karena akan terlalu ba
 
 a. Source Code Splash Launcher
 
-- SplashScreen.java
+- SplashScreen.java [Lihat File](tugasuasmobile/app/src/main/java/com/example/tugassepuluh/SplashScreen.java)<br>
 
 Didalamnya berisi code java, untuk menjalankan fungsi splash launcher. Lebih jelasnya splash launcher ini adalah menampilkan gambar/logo/icon ketika kita pertama kali membuka aplikasi, atau sebelum menuju kehalaman utama.
 
